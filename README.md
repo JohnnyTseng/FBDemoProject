@@ -1,0 +1,2 @@
+A project that demonstrates the "FBAudienceNetwork" SDK installed by CocoaPods will cause ~20 secs to link the app.
+If you remove the "FBAudienceNetwork" SDK, the linking time only takes less than 1 sec
